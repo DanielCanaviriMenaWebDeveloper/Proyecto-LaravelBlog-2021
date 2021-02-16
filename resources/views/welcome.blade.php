@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 6.8 a aprender ya!!!!
+                    <h1>Acerca de</h1>
                 </div>
 
                 <div class="links">
